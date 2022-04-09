@@ -1,2 +1,1 @@
-# kalkulatori
-banzi kalkulatori saurnolisgan
+# banzi kalkulatori saurnolisgan
